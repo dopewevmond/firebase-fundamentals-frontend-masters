@@ -24,4 +24,7 @@ npm i
 npm run dev
 ```
 
+##### course website
+[https://frontend-masters-firebase.web.app/1-intro/](https://frontend-masters-firebase.web.app/1-intro/)
+
 #### Happy coding!
